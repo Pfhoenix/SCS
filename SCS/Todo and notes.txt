@@ -1,0 +1,18 @@
+﻿need to figure out how to properly add items to Pickers
+
+Need to sort out proper layout
+
+General blocks of data :
+- basic character info
+  - name
+  - class / level
+  - race
+  - theme
+  - size
+  - gender
+  - home world
+
+
+Two apps :
+- a full blown editor
+- a read-only player
